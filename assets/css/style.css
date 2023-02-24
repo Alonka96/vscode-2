@@ -1,0 +1,18 @@
+/* селектор{властивість} */
+p {
+  /* color: darkgreen; */
+  /* color: rgb(34,140,34); */
+  /* color: rgba(34, 140, 34, 0.5); */
+  /* color: #228B22; */
+  color: black;
+  font-size: 16px;
+  font-weight: normal;
+}
+/* #main-heading {
+  font-size: 32px;
+  font-weight: bold;
+} */
+/* .heading-class {
+  font-size: 48px;
+  font-weight: bold;
+} */
