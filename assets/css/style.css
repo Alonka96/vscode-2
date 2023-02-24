@@ -27,3 +27,10 @@ p {
   text-decoration: underline yellow double;
 }
 /* text-decoration : text-decoration-style,text-decoration-color,text-decoration-line */
+
+.article{
+  /* вирівнювання тексту */
+  text-align: center;
+  color: brown;
+  border: 10px solid greenyellow;
+}
