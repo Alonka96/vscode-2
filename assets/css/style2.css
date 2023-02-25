@@ -15,4 +15,15 @@ p {
   font-size: 24px;
 }
 
-*{background-color: #bbbbbb;}
+body {
+  background-color: #bbbbbb;
+}
+.img {
+  width: 400px;
+  border: 10px solid orangered;
+  padding: 20px;
+  margin: 60px;
+}
+* {
+  box-sizing: border-box;
+}
