@@ -32,5 +32,5 @@ p {
   /* вирівнювання тексту */
   text-align: center;
   color: brown;
-  border: 10px solid greenyellow;
+  border: 10px solid #444444;
 }
